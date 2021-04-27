@@ -19,10 +19,6 @@
     "size": "size-limit",
     "analyze": "size-limit --why"
   },
-  "peerDependencies": {
-    "@urql/rxjs": "https://github.com/yueliangwen/rxjs-urql.git",
-    "react": ">=16.8.0"
-  },
   "husky": {
     "hooks": {
       "pre-commit": "tsdx lint"
