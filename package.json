@@ -51,6 +51,7 @@
     "@size-limit/preset-small-lib": "^4.10.2",
     "@types/react": "^17.0.3",
     "@types/react-dom": "^17.0.3",
+    "@urql/rxjs": "https://github.com/yueliangwen/rxjs-urql.git#78816bfcdef3cb61ddd7e57cf5ee4a3303037475",
     "husky": "^6.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
