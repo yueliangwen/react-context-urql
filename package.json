@@ -20,7 +20,7 @@
     "analyze": "size-limit --why"
   },
   "peerDependencies": {
-    "@urql/rxjs": "https://github.com/yueliangwen/rxjs-urql.git#78816bfcdef3cb61ddd7e57cf5ee4a3303037475",
+    "@urql/rxjs": "https://github.com/yueliangwen/rxjs-urql.git",
     "react": ">=16.8.0"
   },
   "husky": {
@@ -36,14 +36,14 @@
   },
   "name": "@urql/react-context",
   "author": "ylw",
-  "module": "dist/react-context-urql.esm.js",
+  "module": "dist/react-context.esm.js",
   "size-limit": [
     {
-      "path": "dist/react-context-urql.cjs.production.min.js",
+      "path": "dist/react-context.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/react-context-urql.esm.js",
+      "path": "dist/react-context.esm.js",
       "limit": "10 KB"
     }
   ],
@@ -51,7 +51,7 @@
     "@size-limit/preset-small-lib": "^4.10.2",
     "@types/react": "^17.0.3",
     "@types/react-dom": "^17.0.3",
-    "@urql/rxjs": "https://github.com/yueliangwen/rxjs-urql.git#78816bfcdef3cb61ddd7e57cf5ee4a3303037475",
+    "@urql/rxjs": "https://github.com/yueliangwen/rxjs-urql.git",
     "husky": "^6.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
