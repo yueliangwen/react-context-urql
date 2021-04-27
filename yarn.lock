@@ -1409,7 +1409,7 @@
     "@graphql-typed-document-node/core" "^3.1.0"
     wonka "^4.0.14"
 
-"@urql/rxjs@https://github.com/yueliangwen/rxjs-urql.git":
+"@urql/rxjs@https://github.com/yueliangwen/rxjs-urql.git#78816bfcdef3cb61ddd7e57cf5ee4a3303037475":
   version "0.1.0"
   resolved "https://github.com/yueliangwen/rxjs-urql.git#78816bfcdef3cb61ddd7e57cf5ee4a3303037475"
   dependencies:
