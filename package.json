@@ -36,6 +36,15 @@
   },
   "name": "@urql/react-context",
   "author": "ylw",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yueliangwen/react-context-urql.git"
+  },
+  "homepage": "https://github.com/yueliangwen/react-context-urql",
+  "keywords": [
+    "rxjs",
+    "urql"
+  ],
   "module": "dist/react-context.esm.js",
   "size-limit": [
     {
