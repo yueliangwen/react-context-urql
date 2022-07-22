@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -57,16 +57,16 @@
     }
   ],
   "devDependencies": {
-    "@size-limit/preset-small-lib": "^4.10.2",
-    "@types/react": "^17.0.3",
-    "@types/react-dom": "^17.0.3",
+    "@size-limit/preset-small-lib": "^7.0.8",
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
     "@urql/rxjs": "https://github.com/yueliangwen/rxjs-urql.git",
-    "husky": "^6.0.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "size-limit": "^4.10.2",
+    "husky": "^8.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "size-limit": "^7.0.8",
     "tsdx": "^0.14.1",
-    "tslib": "^2.2.0",
-    "typescript": "^4.2.4"
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
   }
 }
